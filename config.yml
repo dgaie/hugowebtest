@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://vermillion-fairy-88a5c5.netlify.app"
 languageCode: fr-fr
 title: Demo for Hugo
 theme: PaperMod
